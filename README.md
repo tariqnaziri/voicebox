@@ -1,9 +1,9 @@
 # My Awesome Project
 A fun little project I made where I am experimenting with speech synthesis using the Web Speech API. Type in anything you want in the text box and click the speak button to hear it.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://tariqnaziri.github.io/voicebox/
 
-![alt tag](img/screenshot.png)
+![screenshot of voicebox app](img/screenshot.png)
 
 ## How It's Made:
 
