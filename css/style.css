@@ -2,9 +2,17 @@ body {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
+
+body,
+h1 {
+  margin: 0;
+}
 .title {
   background: rgb(135, 206, 235);
   color: white;
+  height: 40px;
+  padding-top: 15px;
+  margin-bottom: 20px;
 }
 .voices {
   background: white;
