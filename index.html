@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <title></title>
+  </head>
+  <body>
+    <section class="voicebox">
+
+      <div class="title">
+        <h1>Voicebox</h1>
+      </div>
+
+      <div class="voices">
+        <select name="voice" id="voices">
+          <option value="">Select A Voice</option>
+        </select>
+      </div>
+
+      <div class="rate">
+        <label for="rate">Rate:</label>
+        <input name="rate" type="range" min="0" max="3" value="1" step="0.1">
+      </div>
+
+      <div class="pitch">
+        <label for="pitch">Pitch:</label>
+        <input name="pitch" type="range" min="0" max="2" step="0.1">
+      </div>
+
+      <div class="text">
+        <textarea name="text">Hello! I love JavaScript 👍</textarea>
+      </div>
+
+      <div class="buttons">
+        <div id="stop">Stop!</div>
+        <div id="speak">Speak</div>
+      </div>
+
+    </section>
+    <script src="js/scripts.js" charset="utf-8"></script>
+  </body>
+</html>
