@@ -1,5 +1,5 @@
 # My Awesome Project
-A fun little project I made where I am experimenting with speech synthesis using the Web Speech API. Type in anything you want in the text box and click the speak button to hear it.
+A fun little project I made where I am experimenting with speech synthesis using the Web Speech API. Type in anything you want in the text box and click "Speak" to hear it played back to you. You can also move the sliders to change the speed and pitch.
 
 **Link to project:** https://tariqnaziri.github.io/voicebox/
 
