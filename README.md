@@ -3,7 +3,7 @@ A fun little project I made where I am experimenting with speech synthesis using
 
 **Link to project:** https://tariqnaziri.github.io/voicebox/
 
-![screenshot of voicebox app](img/pic.png)
+![screenshot of voicebox app](img/screenshot.png)
 
 ## How It's Made:
 
