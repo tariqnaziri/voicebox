@@ -1,5 +1,5 @@
 //create new SpeechSynthesisUtterance object
-const msg = new SpeechSynthesisUtterance();//what the voicebox will say
+const msg = new SpeechSynthesisUtterance(); //what the voicebox will say
 let voices = [];
 const voicesDropdown = document.querySelector('[name="voice"]');
 const options = document.querySelectorAll('[type="range"], [name="text"]');
